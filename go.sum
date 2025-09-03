@@ -1,7 +1,7 @@
 github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8 h1:f+oWsMOmNPc8JmEHVZIycC7hBoQxHH9pNKQORJNozsQ=
 github.com/golang/groupcache v0.0.0-20241129210726-2c02b8208cf8/go.mod h1:wcDNUvekVysuuOpQKo3191zZyTpiI6se1N1ULghS0sw=
-github.com/wilkmaciej/xpath v0.0.0-20250903183826-686a4ee4158a h1:1agwDRUvi8MC6UUIwRbwhIP82piqS422MI4ZLUj5P6U=
-github.com/wilkmaciej/xpath v0.0.0-20250903183826-686a4ee4158a/go.mod h1:gPNm6UmOtCW5TZEgir3/RQwWe8jP+aUzBPu0PsKqsYA=
+github.com/wilkmaciej/xpath v0.0.0-20250903190126-56e4efafd3a8 h1:QWNk0R1FYtlPkPAogk3mp18lJBXPmSNt72ObkMRmUa4=
+github.com/wilkmaciej/xpath v0.0.0-20250903190126-56e4efafd3a8/go.mod h1:gPNm6UmOtCW5TZEgir3/RQwWe8jP+aUzBPu0PsKqsYA=
 golang.org/x/net v0.43.0 h1:lat02VYK2j4aLzMzecihNvTlJNQUq316m2Mr9rnM6YE=
 golang.org/x/net v0.43.0/go.mod h1:vhO1fvI4dGsIjh73sWfUVjj3N7CA9WkKJNQm2svM6Jg=
 golang.org/x/text v0.28.0 h1:rhazDwis8INMIwQ4tpjLDzUhx6RlXqZNPEM0huQojng=
